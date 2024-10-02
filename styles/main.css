@@ -1,0 +1,61 @@
+.thirdpara {
+   
+        color: #000099;
+        background-color: #CCCCCC;
+        font-size: 15px;
+        text-align: center;
+    }
+
+    body{
+        font-family: helvetica, arial, sans-serif;	color:#000099;
+        background-color:bisque;
+    }
+
+    h2{
+        font-size: 2rem;
+        font-weight:100;
+        background-color:yellowgreen;
+        text-align: center;
+    }
+    
+    .quals{
+        border-collapse: collapse;
+        width: 2px;
+        height:2px;
+        
+    }
+    .quals th{
+        border-bottom:3px solid #ccc;
+        padding:5px;
+        
+    }
+    .quals td{
+        border-bottom:3px solid #cccccc;
+        padding:15px;
+        
+          }
+
+    .quals u {
+        border-bottom:3px solid #cccccc;
+        padding:15px;
+        
+
+    }
+
+    .qualsy {
+        border-bottom:3px solid #cccccc;
+        padding:15px;
+        
+
+    }
+
+    .sidebar {
+        color: black;
+    }
+       
+
+   
+
+
+  
+
